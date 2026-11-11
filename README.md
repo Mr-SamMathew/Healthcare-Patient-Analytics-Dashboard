@@ -5,6 +5,9 @@ An interactive clinical operations dashboard built in Excel using Pivot Tables, 
 ---
 
 Executive Dashboard Features
+
+<img width="1653" height="602" alt="image" src="https://github.com/user-attachments/assets/d8669894-5e87-48bd-ad70-da256261041a" />
+
 *Interactive Slicers: Dynamic multi-parameter filtering by "Month" and "Gender" that instantly update all dashboard metrics.
 *Financial Spending Analysis: Tracks total treatment costs broken down by department and visit type (Emergency vs. Routine).
 *Demographic Breakdown: Features a 100% stacked column view showing patient age group distributions across departments.
